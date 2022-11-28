@@ -1,0 +1,8 @@
+name = "Play"
+uuid = "940c7355-9ede-4078-a8bf-c5f4ae1b8643"
+authors = ["KwatMDPhD <kwat.me@icloud.com>"]
+version = "0.1.0"
+
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Tables = "bd369af6-aec1-5ad0-b16a-f7cc5008161c"
